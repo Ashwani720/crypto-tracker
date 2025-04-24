@@ -24,8 +24,3 @@ Check `src/` folder for all source code.
 - Live deployment using GitHub Pages
 
 ---
-
-##  Tech Stack
-- HTML
-- CSS
-- JavaScript
