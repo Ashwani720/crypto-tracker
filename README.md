@@ -1,26 +1,37 @@
+# 🚀 Crypto Tracker App
 
-# Crypto Price Tracker (Starter)
+A real-time cryptocurrency price tracker built using **React** and **Redux Toolkit**.
 
-## How to Run
+## 📌 Features
 
-1. Make sure Node.js is installed.
-2. Open this folder in VS Code.
-3. Run `npm install`
-4. Run `npm start`
+- Shows live price of top 5 cryptocurrencies (BTC, ETH, BNB, etc.)
+- Simulated real-time updates using `setInterval()`
+- Global state management with Redux Toolkit
+- Responsive design with table-based layout
+- Conditional coloring for positive/negative % change
 
-This project is set up with:
-- React (via create-react-app)
-- Redux Toolkit (store & slice setup)
-- Mock crypto data (you can expand)
-- Live updating price simulation (using setInterval)
+## 🛠 Tech Stack
 
-Check `src/` folder for all source code.
+- React
+- Redux Toolkit
+- JavaScript
+- CSS (Inline)
+- Git & GitHub
+
+## 📽 Demo
+
+[Insert your Loom/YouTube demo link here]
+
+## 💻 Setup Instructions
+
+1. Clone the repository:
+2. Navigate to project folder:
 
 
- Features
-- Real-time cryptocurrency price updates
-- Responsive and user-friendly interface
-- Fast and lightweight
-- Live deployment using GitHub Pages
+## 📧 Contact
 
----
+Ashwani Kumar Mishra  
+Email: itashwani1@gmail.com  
+GitHub: [Ashwani720](https://github.com/Ashwani720)  
+LinkedIn: [ashwani755](https://www.linkedin.com/in/ashwani755/)
+
