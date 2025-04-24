@@ -17,14 +17,7 @@ This project is set up with:
 Check `src/` folder for all source code.
 
 
-
-# Crypto Tracker
-
-A simple and clean web app to track the prices of popular cryptocurrencies in real time. Built using HTML, CSS, and JavaScript with data fetched from an external API.
-
----
-
-# Features
+## Features
 - Real-time cryptocurrency price updates
 - Responsive and user-friendly interface
 - Fast and lightweight
