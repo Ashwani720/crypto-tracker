@@ -25,14 +25,7 @@ Check `src/` folder for all source code.
 
 ---
 
-## Live Demo  
- [Click here to check it out]https://ashwani720.github.io/crypto-tracker/
-
----
-
 ##  Tech Stack
 - HTML
 - CSS
 - JavaScript
-
-
