@@ -18,10 +18,6 @@ A real-time cryptocurrency price tracker built using **React** and **Redux Toolk
 - CSS (Inline)
 - Git & GitHub
 
-##  Demo
-
-[Insert your Loom/YouTube demo link here]
-
 ##  Setup Instructions
 
 1. Clone the repository:
